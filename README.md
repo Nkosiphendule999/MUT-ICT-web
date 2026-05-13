@@ -58,7 +58,7 @@ text
 
 Or clone using Git:
 ```bash
-git clone https://github.com/yourusername/mut-ict-website.git
+git clone https://github.com/Nkosiphendule999/MUT-ICT-web.git
 Final path should be: C:\xampp\htdocs\mut-ict-website
 
 Step 2: Install Node.js Dependencies
